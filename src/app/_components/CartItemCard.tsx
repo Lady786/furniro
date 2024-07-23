@@ -4,7 +4,7 @@ import React from "react";
 import { decrement, increment } from "../../store/features/cartSlice";
 import { useAppDispatch } from "../../store/store";
 import QtyBtn from "./QtyBtn";
-import Link from "next/link";
+
 
 interface Props {
   cartItem: CartItem;

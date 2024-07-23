@@ -4,7 +4,6 @@ import logo from "../../../../public/img/logo.png";
 import userIcon from "../../../../public/icons/user-icon.png";
 import searchIcon from "../../../../public/icons/search-icon.png";
 import heartIcon from "../../../../public/icons/heart-icon.png";
-import cartIcon from "../../../../public/icons/cart-icon.png";
 import CartBtn from "../CartBtn";
 
 export const Header = () => {
